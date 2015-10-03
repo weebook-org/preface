@@ -10,7 +10,7 @@ Depuis de nombreuses années, ce projet mûri sans jamais voir le jour. Après q
 
 Plus concrètement, le Weebook devait se présenter sous la forme d'un site internet sur lequel les internautes pouvaient publier librement la suite du livre. De manière régulière on y aurait élu la meilleure suite possible. Une fois le vote achevé, le morçeau choisi aurait été ajoutée au livre. Et ainsi de suite, les itérations se seraient succédées jusqu'à atteindre une fin convenable, votée elle aussi par les internautes. In fine, le livre aurait été publié et les contributeurs auraient tous pu voir apparaître leur pierre au milieu de l'édifice, pierre gravée de leur nom.
 
-Le concept en lui-même reste tel qu'évoqué. Seul la forme change. Imaginé à l'origine comme un site web, il bascule aujourd'hui entièrement sur la plaforme Github et la technologie Git sous-jacente.
+Le concept en lui-même reste tel qu'évoqué. Seule la forme change. Imaginé à l'origine comme un site web, il bascule aujourd'hui entièrement sur la plaforme Github et la technologie Git sous-jacente.
 
 ## GIT comme support
 
