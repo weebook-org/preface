@@ -10,7 +10,7 @@ Depuis de nombreuses années, ce projet mûri sans éclore. Après quelques tent
 
 ## Objectif
 
-Au risque de me répéter, le but assumé du Weebook est de donner naissance à une oeuvre littéraire qui sera publiée sous forme de livre, tout en restant disponible en ligne ici-même. Tout le monde peu participer à sa rédaction et faire partie des contributeurs. In fine, le livre sera publié et les contributeurs verront apparaître leur pierre au milieu de l'édifice, pierre gravée à leur nom.
+Au risque de me répéter, le but assumé du Weebook est de donner naissance à une oeuvre littéraire qui sera publiée sous forme de livre, tout en restant disponible en ligne ici-même. Tout le monde peut participer à sa rédaction et faire partie des contributeurs. In fine, le livre sera publié et les contributeurs verront apparaître leur pierre au milieu de l'édifice, pierre gravée à leur nom.
 
 ## Concept
 
