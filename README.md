@@ -26,4 +26,4 @@ Par ailleurs, avec l'avénement de la solution participative Github, dédier un 
 
 --
 
-**A nos stylos !**
+**A nos claviers !**
