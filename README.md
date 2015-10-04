@@ -1,6 +1,6 @@
 # Préface au WεεBσσK
 
-**" Non, nous ne sommes pas que des écrits vains !"**
+**" Non, nous ne sommes pas que des écrits vains ! "**
 
 ## Origine
 
