@@ -6,7 +6,7 @@
 
 A l'origine, le Weebook n'était qu'une idée farfelue aux airs d'expérience sociale. La transposition du concept de réseau social au monde littéraire, en quelque sorte. Une initiative maladroite de co-rédaction et plus largement de collaboration d'écrivains -et d'amateurs d'écriture- francophones autour d'un projet commun : un livre. On pourrait donc décrire de manière large et pompeusement vulgarisée le projet Weebook comme **une "rédaction commune d'ouvrage"**.
 
-Depuis de nombreuses années, ce projet mûri sans éclore. Après quelques tentatives infructueuses d'implémentation du Weebook, ce dernier a achevé sa course folle dans un coin de ma tête. Aujourd'hui, il est temps d'offrir au projet tout l'espace qu'il mérite, afin qu'il puisse idéalement aboutir un jour à la publication d'un livre.
+Depuis de nombreuses années, ce projet mûrit sans éclore. Après quelques tentatives infructueuses d'implémentation du Weebook, ce dernier a achevé sa course folle dans un coin de ma tête. Aujourd'hui, il est temps d'offrir au projet tout l'espace qu'il mérite, afin qu'il puisse idéalement aboutir un jour à la publication d'un livre.
 
 ## Objectif
 
