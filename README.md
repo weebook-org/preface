@@ -24,4 +24,6 @@ Je suis tombé un jour sur le dépôt Git de Steeve Morin, ce dernier a publié 
 
 Par ailleurs, avec l'avénement de la solution participative Github, dédier un site à la création du projet perd de son sens. Il n'est néanmoins pas exclu de développer un tel outil par dessus le dépôt Git. D'autant que l'on imagine peu des passionnés d'écriture partager leur écrits via un outil initialement conçu pour de la gestion de configuration : le code source de millions de projets de logiciels informatiques libres.
 
-## A nos stylos !
+--
+
+**A nos stylos !**
