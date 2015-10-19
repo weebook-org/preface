@@ -14,9 +14,15 @@ Au risque de me répéter, le but assumé du Weebook est de donner naissance à 
 
 ## Concept
 
+### Rédaction linéaire
+
 En théorie, le Weebook doit se présenter sous la forme d'un site internet. Après la rédaction de la phrase d'amorce, les internautes peuvent publier librement la suite du livre : qu'il s'agisse d'une phrase ou d'un paragraphe. De manière régulière on y élit la meilleure suite possible. Une fois le vote achevé, le morçeau choisi est ajouté au livre. Et ainsi de suite, les itérations se succèdent jusqu'à atteindre une fin convenable, votée elle aussi par les internautes.
 
 Plus concrètement, le concept en lui-même reste tel qu'évoqué. Seule la forme change. Imaginé au départ comme un site web, il bascule aujourd'hui entièrement sur la plaforme Github et la technologie Git sous-jacente.
+
+### Suites multiples
+
+Sur une idée de [seblm](https://github.com/seblm), le projet pourra prendre une tournure moins linéaire en mettant de côté la notion de vote de la meilleure suite, et en laissant les écrivains choisir de partir de n'importe quelle suite possible à la fin de chaque semaine.
 
 ## Support : Git
 
