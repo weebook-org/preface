@@ -2,6 +2,14 @@
 
 **" Non, nous ne sommes pas que des écrits vains ! "**
 
+**" Un livre est quelqu'un. Ne vous y fiez pas. Un livre est un engrenage. "** -- Victor Hugo
+
+**" Un livre est un outil de liberté."** -- Jean Guéhenno
+
+**" Le monde est un livre dont chaque pas nous ouvre une page. "** -- Alphonse de Lamartine 
+
+--
+
 ## Origine
 
 A l'origine, le Weebook n'était qu'une idée farfelue aux airs d'expérience sociale. La transposition du concept de réseau social au monde littéraire, en quelque sorte. Une initiative maladroite de co-rédaction et plus largement de collaboration d'écrivains -et d'amateurs d'écriture- francophones autour d'un projet commun : un livre. On pourrait donc décrire de manière large et pompeusement vulgarisée le projet Weebook comme **une "rédaction commune d'ouvrage"**.
